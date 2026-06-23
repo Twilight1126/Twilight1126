@@ -2,34 +2,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Chirag&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Known%20in%20the%20code%20as%20Twilight&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;Architect+of+AI+Agents;Solver+of+Tangled+Problems;JavaScript+First%2C+Always;Building%2C+Breaking%2C+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;Detective+of+Broken+Code;Architect+of+AI+Agents;Case+Status%3A+Always+Open" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 🌓 About Me
+## 🕵️ About Me
 
-> By day, I answer to **Chirag**. By commit history, I go by **Twilight** — not because I work in the dark, but because that's exactly where the interesting problems live: at the edge between what's known and what's still being figured out.
+> **Case file: open. Detective: Code Twilight. Specialty: bugs that don't want to be found.**
 
-I'm a Full Stack Engineer who treats complexity less like an obstacle and more like an invitation. Hand me a tangled system, an ambiguous spec, or a stack trace nobody else wants to touch — I'll find the thread that unravels it.
+Most people know me as Chirag. But somewhere between a 2 AM stack trace and a bug that had been hiding for three sprints, I picked up another name in the codebase — **Twilight**, the detective who works the shift between *"it should work"* and *"why doesn't it work."*
 
-🧩 **JavaScript is where I think first** — it's the language I build in, debug in, and keep coming back to as the backbone of everything I ship, frontend or backend.
+I don't read code. I interrogate it. Every variable is a witness, every log line is a clue, and every stack trace is a confession waiting to happen. I've built my reputation on systems nobody else wanted to touch — the kind where the real bug was three abstractions away from where the error message pointed.
 
-🤖 Lately, I've been going deeper into **AI agent architecture** — designing and orchestrating an agent from the ground up, with **Anthropic's Claude** powering the reasoning layer. It's less about writing prompts and more about engineering the decision logic: how an agent thinks, when it acts, and how it recovers when it doesn't.
+🤖 **Current case:** teaching machines to reason. I designed and built an AI agent from the ground up — **Anthropic's Claude** as the brain, my orchestration logic as the nervous system deciding when it thinks, when it acts, and how it recovers when the trail goes cold.
 
-🧠 I'm rebuilding my **Data Structures & Algorithms** foundations in JavaScript, with a dedicated practice repo synced to my LeetCode grind — because strong fundamentals are what let creativity move *faster*, not slower.
+🧠 **Open file:** Data Structures & Algorithms. I treat every problem like a case that's already been solved a thousand times before — the real job is finding which solved case this one matches. Tracked, logged, and cross-referenced against real progress on LeetCode.
 
-🔭 I'm endlessly curious about emerging technology. I don't just read about new tools — I break them open, build something small with them, and see how far the idea actually goes.
+🔭 **Standing order:** never stop investigating new technology. I don't take reports on it secondhand — I go to the scene myself, build something small with it, and follow the lead as far as it goes.
 
-💬 Talk to me about agent orchestration, JavaScript architecture, real-world DSA, or whatever new technology has my attention this week.
+💬 Open an interrogation about agent orchestration, system architecture, real-world DSA, or whatever technology I'm currently building a case file on.
+
+**Case status: always open.**
 
 <br>
 
 ## 🤖 Currently Building
 
-**AI Agent — Orchestrated from Scratch**
-Designing the orchestration layer that governs reasoning, tool use, and multi-step decision-making for an autonomous agent — powered by **Anthropic's Claude**.
+**AI Agent — Designed, Orchestrated & Built**
+Engineered the orchestration layer that governs reasoning, tool use, and multi-step decision-making for an autonomous agent — powered by **Anthropic's Claude**.
 
 <p align="left">
 <img src="https://img.shields.io/badge/Powered%20by-Claude%20(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -40,25 +42,23 @@ Designing the orchestration layer that governs reasoning, tool use, and multi-st
 
 ## 🧩 Problem Solving & DSA
 
-Sharpening core fundamentals — Data Structures & Algorithms, solved in JavaScript, tracked against real LeetCode progress.
+Sharpening core fundamentals — Data Structures & Algorithms, tracked against real LeetCode progress.
 
-<!-- 🔧 Replace YOUR_LEETCODE_USERNAME below with your actual LeetCode username -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chiragb0707?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/u/chiragb0707/)
 
-<!-- 🔧 Replace the repo name below if your actual DSA practice repo is named differently -->
-🔗 **DSA in JavaScript** — practice repo: [github.com/Twilight1126/DSA-in-JavaScript](https://github.com/Twilight1126/DSA-in-JavaScript)
+🔗 **DSA Pattern** — practice repo: [github.com/Twilight1126/DSA-Pattern](https://github.com/Twilight1126/DSA-Pattern)
 
 <br>
 
 ## 🛠️ Tech Stack
 
-**Languages** *(JavaScript first — always)*
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,mysql" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,react,mysql" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,html,css" />
+<img src="https://skillicons.dev/icons?i=react,angular,html,css" />
 
 **Backend & Architecture**
 
@@ -77,7 +77,7 @@ Sharpening core fundamentals — Data Structures & Algorithms, solved in JavaScr
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-**AI, Agents & Voice**
+**AI Agent & Voice**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 `LLM Integrations` `Agent Orchestration` `Azure Speech Services (STT/TTS)` `Voice AI Systems`
@@ -88,12 +88,25 @@ Sharpening core fundamentals — Data Structures & Algorithms, solved in JavaScr
 
 <br>
 
+## 📌 Featured Repositories
+
+<p align="left">
+<a href="https://github.com/Twilight1126/XR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight1126&repo=XR&theme=tokyonight" /></a>
+<a href="https://github.com/Twilight1126/XR-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight1126&repo=XR-Vision&theme=tokyonight" /></a>
+</p>
+<p align="left">
+<a href="https://github.com/Twilight1126/DSA-Pattern"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight1126&repo=DSA-Pattern&theme=tokyonight" /></a>
+<a href="https://github.com/Twilight1126/-berrywise-ai-financial-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Twilight1126&repo=-berrywise-ai-financial-dashboard&theme=tokyonight" /></a>
+</p>
+
+<br>
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Twilight1126&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Twilight1126&theme=tokyonight&hide_border=false&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Twilight1126&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight1126&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight1126&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=Twilight1126&theme=tokyonight&no-frame=true&row=1&column=6)
 
