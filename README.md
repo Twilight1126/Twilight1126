@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Chirag&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Known%20in%20the%20code%20as%20Twilight&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Chirag&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;AI+Agent+Builder;Problem+Solver;Always+Learning" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 ## 🌓 About Me
 
-**Hey, I'm Chirag — also known as Twilight.**
+**Hey, I'm Chirag — also known as Twilight in code. Not the dark, but the moment everything finally lights up.**
 
 I'm a Full Stack Engineer who turns complex ideas into systems that actually run.
 
@@ -115,7 +115,7 @@ Sharpening core fundamentals — Data Structures & Algorithms, tracked against r
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Twilight1126&theme=tokyonight&hide_border=false&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Twilight1126&theme=tokyonight&hide_border=false)
+![](https://streak-stats.demolab.com?user=Twilight1126&theme=tokyonight&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight1126&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact)
 
