@@ -1,90 +1,120 @@
-<h1 align="center">Hey, I'm Chirag 👋</h1>
-<h3 align="center">Where others see a wall, I see a structure waiting to be understood.</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Chirag&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Known%20in%20the%20code%20as%20Twilight&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;Architect+of+AI+Agents;Solver+of+Tangled+Problems;JavaScript+First%2C+Always;Building%2C+Breaking%2C+Learning" alt="Typing SVG" />
+
+</div>
 
 <br>
 
-## 🧠 About Me
+## 🌓 About Me
 
-I'm a Full Stack Software Engineer who finds genuine satisfaction in untangling complex problems — turning chaotic systems into clean, logical architecture. My work spans frontend interfaces, backend services, and the real-time logic that connects them.
+> By day, I answer to **Chirag**. By commit history, I go by **Twilight** — not because I work in the dark, but because that's exactly where the interesting problems live: at the edge between what's known and what's still being figured out.
 
-🔭 I build with **Angular, TypeScript, Node.js, Python, and SQL**, designing RESTful APIs, WebSocket-based real-time systems, and event-driven backend architectures.
+I'm a Full Stack Engineer who treats complexity less like an obstacle and more like an invitation. Hand me a tangled system, an ambiguous spec, or a stack trace nobody else wants to touch — I'll find the thread that unravels it.
 
-🎙️ I'm drawn to the intersection of engineering and language — integrating **LLM workflows** and **Azure Speech Services (Speech-to-Text / Text-to-Speech)** to build AI-assisted, voice-driven communication tools.
+🧩 **JavaScript is where I think first** — it's the language I build in, debug in, and keep coming back to as the backbone of everything I ship, frontend or backend.
 
-🔐 I care equally about security and craftsmanship — implementing JWT authentication, role-based access control, and reliable CI/CD pipelines on **Azure DevOps**.
+🤖 Lately, I've been going deeper into **AI agent architecture** — designing and orchestrating an agent from the ground up, with **Anthropic's Claude** powering the reasoning layer. It's less about writing prompts and more about engineering the decision logic: how an agent thinks, when it acts, and how it recovers when it doesn't.
 
-🌱 I'm continuously sharpening my understanding of system design, database optimization, and scalable backend architecture.
+🧠 I'm rebuilding my **Data Structures & Algorithms** foundations in JavaScript, with a dedicated practice repo synced to my LeetCode grind — because strong fundamentals are what let creativity move *faster*, not slower.
 
-💬 Happy to talk about real-time architecture, event-driven backends, API design, or how AI is reshaping human-computer communication.
+🔭 I'm endlessly curious about emerging technology. I don't just read about new tools — I break them open, build something small with them, and see how far the idea actually goes.
 
-⚡ **Philosophy:** every bug is a puzzle piece that fell under the sofa — the fix is rarely difficult, only quietly hidden.
+💬 Talk to me about agent orchestration, JavaScript architecture, real-world DSA, or whatever new technology has my attention this week.
 
 <br>
 
-## 🌐 Connect
+## 🤖 Currently Building
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragb781)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Twilight1126)
+**AI Agent — Orchestrated from Scratch**
+Designing the orchestration layer that governs reasoning, tool use, and multi-step decision-making for an autonomous agent — powered by **Anthropic's Claude**.
+
+<p align="left">
+<img src="https://img.shields.io/badge/Powered%20by-Claude%20(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Architecture-Agent%20Orchestration-58A6FF?style=for-the-badge&logo=robotframework&logoColor=white" />
+</p>
+
+<br>
+
+## 🧩 Problem Solving & DSA
+
+Sharpening core fundamentals — Data Structures & Algorithms, solved in JavaScript, tracked against real LeetCode progress.
+
+<!-- 🔧 Replace YOUR_LEETCODE_USERNAME below with your actual LeetCode username -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+<!-- 🔧 Replace the repo name below if your actual DSA practice repo is named differently -->
+🔗 **DSA in JavaScript** — practice repo: [github.com/Twilight1126/DSA-in-JavaScript](https://github.com/Twilight1126/DSA-in-JavaScript)
 
 <br>
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages** *(JavaScript first — always)*
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,mysql" />
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,html,css" />
 
 **Backend & Architecture**
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+`REST APIs` `WebSockets` `Event-Driven Architecture`
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azure,git,github" />
+
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-**AI & Voice**
+**AI, Agents & Voice**
 
-`LLM Integrations` • `Azure Speech Services (STT / TTS)` • `Voice AI Systems` • `Event-Driven Architecture`
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+`LLM Integrations` `Agent Orchestration` `Azure Speech Services (STT/TTS)` `Voice AI Systems`
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,idea,git,github" />
 
 <br>
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Twilight1126&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Twilight1126&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight1126&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Twilight1126&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Twilight1126&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight1126&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=Twilight1126&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Twilight1126&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
+<br>
+
+## 🌐 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/chiragb781"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Twilight1126"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Twilight1126&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Crafted with intent, line by line. -->
+⚡ *Every bug is a puzzle piece that fell under the sofa — the fix is rarely difficult, only quietly hidden.*
+
+[![](https://visitcount.itsvg.in/api?id=Twilight1126&icon=8&color=4)](https://visitcount.itsvg.in)
+
+</div>
