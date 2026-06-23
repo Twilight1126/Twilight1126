@@ -1,4 +1,102 @@
 <div align="center">
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="28%" stop-color="#241b51"/>
+      <stop offset="52%" stop-color="#6a2c70"/>
+      <stop offset="75%" stop-color="#b83b5e"/>
+      <stop offset="100%" stop-color="#f08a4b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="55%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="blur2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#sky)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="70" cy="35" r="1.6" opacity="0.85"/>
+    <circle cx="150" cy="65" r="1" opacity="0.5"/>
+    <circle cx="230" cy="30" r="1.3" opacity="0.7"/>
+    <circle cx="40" cy="110" r="1" opacity="0.45"/>
+    <circle cx="310" cy="55" r="1.5" opacity="0.6"/>
+    <circle cx="380" cy="25" r="1" opacity="0.5"/>
+    <circle cx="450" cy="70" r="1.2" opacity="0.4"/>
+    <circle cx="120" cy="155" r="1" opacity="0.35"/>
+    <circle cx="520" cy="40" r="1.4" opacity="0.55"/>
+    <circle cx="940" cy="28" r="1.3" opacity="0.6"/>
+    <circle cx="860" cy="60" r="1" opacity="0.4"/>
+    <circle cx="1010" cy="50" r="1.5" opacity="0.5"/>
+    <circle cx="1160" cy="80" r="1" opacity="0.4"/>
+    <circle cx="780" cy="20" r="1.2" opacity="0.55"/>
+    <circle cx="650" cy="45" r="1" opacity="0.4"/>
+    <circle cx="190" cy="200" r="0.9" opacity="0.3"/>
+  </g>
+
+  <!-- crescent moon -->
+  <g>
+    <circle cx="1100" cy="55" r="22" fill="#fdf6e3" opacity="0.92"/>
+    <circle cx="1109" cy="49" r="20" fill="#241b51"/>
+  </g>
+
+  <!-- skyline silhouette -->
+  <g fill="#0d0221" opacity="0.55">
+    <rect x="0" y="230" width="45" height="50"/>
+    <rect x="45" y="200" width="35" height="80"/>
+    <rect x="80" y="240" width="55" height="40"/>
+    <rect x="135" y="185" width="40" height="95"/>
+    <rect x="175" y="220" width="30" height="60"/>
+    <rect x="205" y="245" width="50" height="35"/>
+    <rect x="255" y="205" width="45" height="75"/>
+    <rect x="300" y="225" width="35" height="55"/>
+    <rect x="335" y="190" width="60" height="90"/>
+    <rect x="395" y="235" width="40" height="45"/>
+    <rect x="435" y="210" width="50" height="70"/>
+    <rect x="485" y="230" width="35" height="50"/>
+    <rect x="520" y="195" width="45" height="85"/>
+    <rect x="565" y="240" width="55" height="40"/>
+    <rect x="620" y="215" width="40" height="65"/>
+    <rect x="660" y="185" width="50" height="95"/>
+    <rect x="710" y="235" width="35" height="45"/>
+    <rect x="745" y="205" width="60" height="75"/>
+    <rect x="805" y="225" width="40" height="55"/>
+    <rect x="845" y="195" width="45" height="85"/>
+    <rect x="890" y="240" width="35" height="40"/>
+    <rect x="925" y="210" width="55" height="70"/>
+    <rect x="980" y="230" width="40" height="50"/>
+    <rect x="1020" y="190" width="50" height="90"/>
+    <rect x="1070" y="220" width="35" height="60"/>
+    <rect x="1105" y="235" width="45" height="45"/>
+    <rect x="1150" y="200" width="50" height="80"/>
+  </g>
+
+  <!-- signal beacon on a tower -->
+  <line x1="365" y1="190" x2="365" y2="160" stroke="#f08a4b" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="365" cy="158" r="5" fill="#f08a4b" opacity="0.9" filter="url(#blur2)"/>
+  <circle cx="365" cy="158" r="2.5" fill="#ffe2c2"/>
+
+  <!-- glow behind name -->
+  <ellipse cx="600" cy="140" rx="260" ry="70" fill="#000000" opacity="0.28" filter="url(#blur1)"/>
+
+  <!-- name -->
+  <text x="600" y="152" font-family="Verdana, Arial, sans-serif" font-size="72" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">Chirag</text>
+
+  <!-- subtitle -->
+  <text x="600" y="196" font-family="Verdana, Arial, sans-serif" font-size="19" font-weight="700" fill="#ffd9a0" text-anchor="middle" letter-spacing="4">ALSO KNOWN AS TWILIGHT</text>
+
+  <!-- tagline -->
+  <text x="600" y="226" font-family="Verdana, Arial, sans-serif" font-size="14" fill="#e8e8f0" opacity="0.8" text-anchor="middle" letter-spacing="1">FULL STACK ENGINEER · AI AGENT BUILDER</text>
+</svg>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Chirag&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
